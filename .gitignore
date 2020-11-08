@@ -3,3 +3,6 @@
 results/
 #except final.data
 !final.dat 
+.Rproj.user
+*.Rproj
+graphs/
